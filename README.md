@@ -17,11 +17,7 @@ Hello Kitty-themed background
 
 Kawaii fonts, colors, and layout
 
-PREVIEW
-
-(Add a screenshot here of your running app if you want!)
-
-Technologies Used
+TECHNOLOGIES USED
 
 -Python
 
