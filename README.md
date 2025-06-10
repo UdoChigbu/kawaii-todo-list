@@ -54,9 +54,9 @@ This app was created to combine practical task tracking with a fun and joyful us
 PROJECT STRUCTURE
 
 kawaii-todo-list/
-├── kawaii_todo_list.py (main Python GUI app)
-├── background.jpg (cute Hello Kitty background image)
-└── tasks.txt (saved tasks - auto-generated)
+─ kawaii_todo_list.py (main Python GUI app)
+─ background.jpg (cute Hello Kitty background image)
+─ tasks.txt (saved tasks - auto-generated)
 
 AUTHOR
 
