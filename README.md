@@ -61,6 +61,5 @@ kawaii-todo-list/
 AUTHOR
 
 Udo Chigbu
-LinkedIn: https://www.linkedin.com/in/udochigbu/
 GitHub: https://github.com/UdoChigbu
 
